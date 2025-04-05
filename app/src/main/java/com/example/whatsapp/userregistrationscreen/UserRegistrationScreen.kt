@@ -31,7 +31,7 @@ fun UserRegistrationScreen() {
             fontSize = 20.sp,
             color = colorResource(R.color.dark_green), fontWeight = FontWeight.Bold
         )
-        Spacer(modifier = Modifier.height(24.dp))
+        Spacer(modifier = Modifier.height(23.dp))
 
     }
 }
