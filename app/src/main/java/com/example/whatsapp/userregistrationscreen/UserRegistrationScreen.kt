@@ -1,6 +1,8 @@
 package com.example.whatsapp.userregistrationscreen
 
 import androidx.compose.animation.core.spring
+import com.example.whatsapp.R
+
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -38,7 +40,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.whatsapp.R
+
 
 @Preview(showSystemUi = true)
 @Composable
