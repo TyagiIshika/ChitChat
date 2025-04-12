@@ -173,7 +173,7 @@ fun UserRegistrationScreen() {
                 shape = RoundedCornerShape(6.dp),
                 colors = ButtonDefaults.buttonColors(containerColor = colorResource(id = R.color.dark_green))
             ) {
-                Text(text = "Next", fontSize = 16.sp)
+                Text(text = "Next", fontSize = 15.sp)
             }
 
         }
